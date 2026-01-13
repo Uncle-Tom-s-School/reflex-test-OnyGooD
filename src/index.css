@@ -11,3 +11,29 @@
   justify-content: center;
   align-items: center;
 }
+
+.kezdoDoboz{
+  background-color: yellow;
+  padding: 120px;
+  border: 1px solid black;
+  border-radius: 15px;
+  align-items: center;
+  text-align: center;
+}
+
+.zoldDoboz{
+  background-color: rgb(64, 199, 64);
+  padding: 120px;
+  border: 1px solid black;
+  border-radius: 15px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+button{
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin: 10px;
+}
